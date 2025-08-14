@@ -2,7 +2,7 @@
 
 [**▶ View the Live Interactive Dashboard**](https://public.tableau.com/app/profile/vaibhaw.verma/viz/E-commerceSalesCustomerSegmentationDashboard/Dashboard1)
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates an **end-to-end business analysis workflow**, starting from a large e-commerce transactional dataset and culminating in a fully interactive **business intelligence dashboard**.
 
 The goal is to:
@@ -30,7 +30,7 @@ The goal is to:
 
 ## Process / Methodology
 1. **Data Collection**  
-   - Used the ["Online Retail II UCI"](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci) dataset from Kaggle (over 500,000 transactions).
+   - Used the [Online Retail II UCI](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci) dataset from Kaggle (over 500,000 transactions).
 
 2. **Data Cleaning & Preparation**  
    - Loaded the data using Python.  
